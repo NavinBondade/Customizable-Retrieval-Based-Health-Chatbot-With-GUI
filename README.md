@@ -10,6 +10,9 @@
   <li>Pandas </li>
   <li>Matplotlib</li>
   <li>Seaborn</li>
-  <li>Sklearn</li>
+  <li>Sklearn</li>i
   <li>NLTK</li>
 </ul>
+<h2>Methodology and Approach</h2>
+<p>Here, I have developed a neural network architecture that has been trained on various medical and health-related queries.  The model consists of three fully connected layers and it has been trained for one thousand epochs using SGD optimizer. The model understands these queries and generated an intent key, using that intent key the answers for the queries are presented.</p>
+
