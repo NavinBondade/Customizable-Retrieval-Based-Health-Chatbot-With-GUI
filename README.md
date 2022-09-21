@@ -10,7 +10,7 @@
   <li>Pandas </li>
   <li>Matplotlib</li>
   <li>Seaborn</li>
-  <li>Sklearn</li>i
+  <li>Sklearn</li>
   <li>NLTK</li>
 </ul>
 <h2>Methodology and Approach</h2>
